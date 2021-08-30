@@ -7,7 +7,7 @@ const Header = () => {
     const appName = process?.env?.NEXT_PUBLIC_APP_NAME ?? "MY TRACKER V2"
     return (
         <header className={styles.header}>
-           <Grid container spacing={3}>
+           <Grid container spacing={2}>
             <Grid item xs={4}>
                 <Image 
                     src="/apex-legends-logo.png" 

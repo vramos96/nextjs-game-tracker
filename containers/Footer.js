@@ -13,7 +13,7 @@ const Footer = () => {
                 </a>
                 <br />
                 Created by &nbsp;
-                <a target="_blank" href="#">
+                <a target="_blank" href={createdByUrl}>
                     {createdByUrl}
                 </a>
             </h3>

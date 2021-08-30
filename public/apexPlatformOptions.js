@@ -1,4 +1,4 @@
-const platformOptions = [
+const apexPlatformOptions = [
     {
         id: '1',
         name: 'Origin (PC)',
@@ -15,4 +15,4 @@ const platformOptions = [
         value: 'xbl'
     }
 ]
-export default platformOptions
+export default apexPlatformOptions
